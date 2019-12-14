@@ -10,3 +10,4 @@ gem "slim"
 gem "middleman-blog", "~> 4.0"
 gem "nokogiri" # For blog post summaries
 gem 'middleman-dotenv', '~> 2.0' # For .env
+gem "middleman-blog", "~> 4.0" # For blog posts

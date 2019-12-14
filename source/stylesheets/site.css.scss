@@ -70,3 +70,14 @@ html, body {
     margin: 0;
     padding: 0;
 }
+
+.post {
+    .title {
+        font-size: $size-large;
+        font-weight: bold;
+    }
+
+    p {
+        margin-top: 10px;
+    }
+}

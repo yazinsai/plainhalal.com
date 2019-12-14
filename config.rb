@@ -73,3 +73,8 @@ end
 configure :development do
   activate :dotenv, env: '.env.development'
 end
+
+activate :blog do |blog|
+  # set options on blog
+  blog.prefix = "post"
+end
