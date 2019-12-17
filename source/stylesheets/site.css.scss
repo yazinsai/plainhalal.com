@@ -51,7 +51,7 @@ $desktop: "(min-width: 768px)";
     margin: 0 auto;
 
     min-width: 320px;
-    max-width: 1200px;
+    max-width: 30rem; // for 45 - 75 chars (readability)
 }
   
 .container > .col {
@@ -69,6 +69,25 @@ html, body {
     font-size: $size-normal;
     margin: 0;
     padding: 0;
+}
+
+h1, h2, h3 {
+    color: #222;
+}
+
+p {
+    color: #444;
+    line-height: 140%;
+}
+
+a.btn {
+    margin-top: 1em;
+    display: inline-block;
+    text-decoration: none;
+    border: 1px solid#ccc;
+    padding: .4em .8em;
+    border-radius: 10px;
+    color:#99c;
 }
 
 .post {

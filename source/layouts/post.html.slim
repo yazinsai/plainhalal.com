@@ -1,0 +1,6 @@
+= wrap_layout :layout do
+  .container
+    .col
+      a.btn href="/" &lt; Back to posts
+      h1 = current_page.data.title
+      == yield
