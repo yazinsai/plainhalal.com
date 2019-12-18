@@ -5,13 +5,34 @@ description:
 layout: post
 ---
 
-Investing is not the easiest topic to go about describing, and even as someone who's well versed with alot of the lingo, it can get overwhelming!
+## Why Invest?
 
-Part of this is due to the fact that there are **so many cryptic terms**. ETFs, Market orders, dollar cost averaging, dividends, mutual funds &hellip; the list goes on, and on.
+Investing is incredibly important, and yet I - and many other Muslims I know - thought that investing was restricted to buying gold and storing it. It's only in my late twenties that I realized how completely oblivious I was to the investing world. Think of all the lost opportunities &mdash; investing is all about getting in early.
 
-Another reason investing can be confusing is because it lies at the intersection of so many fields &mdash; including finance, tax, and for us Muslims: shariah law.
+I felt bad for not having started earlier, and I'm sharing this information with you in an effort to get you started earlier too. A big part of the reason I didn't start sooner was due to 4 primary misconceptions about investing:
 
-## A Framework For Truly Understanding Investing
+1. Investing in stocks is haram
+2. You need to be a US citizen (or at least a resident) to invest
+3. You need alot of money to invest
+4. The taxes on your investments will wipe out any potential gains
+
+Turns out, **these are all wrong!**
+
+If I had taken the time to properly research these topics, I would've got into the market earlier &mdash; maybe at 15 years old, gaining a 15 year head start on when I ultimately did get in!
+
+## It's not too late
+
+Even if you're already retired, it's not too late! See, the point of investing is to keep what you need on hand &mdash; and keep the cash you don't need in a form that actually *appreciates* over time. Money kept in a bank account gets you, at best, 1% in profit (if you're lucky &mdash; most Islamic banks give you closer to 0.1%). That sounds better than nothing, but it's worse than the average global rate of inflation (2%), which means $100 kept in a bank account actually buys only $98 worth of "stuff" by the end of the year. Having $101 means you get $99 of stuff, still a loss!
+
+The point is &mdash; it's never too late; start investing now!
+
+## It's Complicated
+
+In addition to the 4 issues I mentioned before, there was also a 5th that underlies all of them: Investing is confusing! There's so many acronyms, technical terms and complicated verbiage that just makes it very intimidating to a beginner &mdash; especially when you're dealing with your hard earned money! Some examples: ETFs, Market orders, dollar cost averaging, dividends, mutual funds &hellip; the list goes on, and on.
+
+This gets worse if you're looking to keep your money halal &mdash; how can you be certain you're not tainting your money with impure investing returns? 
+
+## Breaking it down
 
 The key to understanding investing, as is the case with understanding any topic of sufficient complexity is to start with the trunk.
 
@@ -20,3 +41,19 @@ What do I mean by that?
 When you want to learn a new topic, instead of starting with learning the minute details in order &mdash; instead try to connect the topic to topics you are already familiar with. This allows you to confidently build on knowledge that you already know, and fill in gaps in understanding so they form a cohesive whole.
 
 Every new piece of information you encounter will lie on a branch that links all the way to the trunk. This is the technique that Elon Musk and many other successful "ultralearners" employ to enable them to not only retain but understand and process massive amounts of information consistently.
+
+- Why Investing is Important
+- How is Halal Investing different?
+  - Over 1.5b people -- very little matrial, most outdated
+  - Treatment of zakat
+  - Treatment of interest / composition of holdings
+- Topics we'll cover
+  - Basic strategy
+  - Bonds are not halal, use Sukuk instead
+  - Index Funds / ETFs 
+  - Exposure to gold (e.g. bullionvault)
+  - Different broker accounts you can use
+  - Getting into investing: all at once? (No, DCA)
+  - Shorter term investment options:
+    - Murabaha (target 2.5% yearly returns)
+  - Tax treatment for investments (US only)
