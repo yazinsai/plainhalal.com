@@ -5,22 +5,20 @@ description:
 layout: post
 ---
 
-## Why Invest?
+Investing is incredibly important, and yet many Muslims I know think investing is restricted to buying gold and storing it. It was only in my late twenties that I realized how completely oblivious I was to the investing world. Just think of all the lost opportunities &mdash; investing is all about getting in early, and staying the course.
 
-Investing is incredibly important, and yet I - and many other Muslims I know - thought that investing was restricted to buying gold and storing it. It's only in my late twenties that I realized how completely oblivious I was to the investing world. Think of all the lost opportunities &mdash; investing is all about getting in early.
-
-I felt bad for not having started earlier, and I'm sharing this information with you in an effort to get you started earlier too. A big part of the reason I didn't start sooner was due to 4 primary misconceptions about investing:
+I'm sharing this information with you in an effort to get you started earlier too. A big part of the reason I didn't start sooner was due to 4 misconceptions I had about investing:
 
 1. Investing in stocks is haram
 2. You need to be a US citizen (or at least a resident) to invest
 3. You need alot of money to invest
 4. The taxes on your investments will wipe out any potential gains
 
-Turns out, **these are all wrong!**
+Turns out, **these are all wrong!** 😲
 
 If I had taken the time to properly research these topics, I would've got into the market earlier &mdash; maybe at 15 years old, gaining a 15 year head start on when I ultimately did get in!
 
-## It's not too late
+## No, it's not "too late"
 
 Even if you're already retired, it's not too late! See, the point of investing is to keep what you need on hand &mdash; and keep the cash you don't need in a form that actually *appreciates* over time. Money kept in a bank account gets you, at best, 1% in profit (if you're lucky &mdash; most Islamic banks give you closer to 0.1%). That sounds better than nothing, but it's worse than the average global rate of inflation (2%), which means $100 kept in a bank account actually buys only $98 worth of "stuff" by the end of the year. Having $101 means you get $99 of stuff, still a loss!
 
@@ -42,9 +40,10 @@ When you want to learn a new topic, instead of starting with learning the minute
 
 Every new piece of information you encounter will lie on a branch that links all the way to the trunk. This is the technique that Elon Musk and many other successful "ultralearners" employ to enable them to not only retain but understand and process massive amounts of information consistently.
 
-- Why Investing is Important
+- [Why Investing is Important](/post/why-invest)
+- What to Expect
 - How is Halal Investing different?
-  - Over 1.5b people -- very little matrial, most outdated
+  - Over 1.5b people &mdash; very little material, most outdated
   - Treatment of zakat
   - Treatment of interest / composition of holdings
 - Topics we'll cover

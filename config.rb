@@ -1,9 +1,18 @@
 # Activate and configure extensions
 # https://middlemanapp.com/advanced/configuration/#configuring-extensions
 
+Time.zone = "Riyadh"
+
 # Use slim as page language
 require "slim"
 Slim::Engine.options[:pretty] = true
+
+activate :blog do |blog|
+  # set options on blog
+  blog.prefix = "post"
+  blog.layout = "post"
+  blog.permalink = "{title}"
+end
 
 activate :autoprefixer do |prefix|
   prefix.browsers = "last 2 versions"
@@ -72,9 +81,4 @@ end
 
 configure :development do
   activate :dotenv, env: '.env.development'
-end
-
-activate :blog do |blog|
-  # set options on blog
-  blog.prefix = "post"
 end
